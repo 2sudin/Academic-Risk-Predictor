@@ -1,0 +1,15 @@
+\begin{table}[h]
+\caption{Classifier performance comparison (post-SMOTE, 20\% hold-out test set). HR Recall = High Risk class recall. CV Mean F1 = stratified 5-fold macro F1.}
+\label{tab:model_comparison}
+\begin{tabular}{lcccc}
+\toprule
+ & Accuracy & Macro F1 & HR Recall & CV Mean F1 \\
+Model &  &  &  &  \\
+\midrule
+Decision Tree & 0.9409 & 0.9427 & 0.9070 & 0.9753 \\
+Logistic Regression & 0.9212 & 0.9333 & 1.0000 & 0.9360 \\
+K-Nearest Neighbours & 0.9409 & 0.9499 & 1.0000 & 0.9681 \\
+Random Forest & 0.9606 & 0.9666 & 1.0000 & 0.9835 \\
+\bottomrule
+\end{tabular}
+\end{table}

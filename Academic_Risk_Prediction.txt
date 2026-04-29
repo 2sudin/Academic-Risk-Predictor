@@ -1,0 +1,30 @@
+Academic_Risk_Prediction/
+│
+├── data/
+│   ├──  final_dataset.csv
+│   ├──  rf_model.pkl | Trained Random Forest model + feature names |
+|   ├──  model_comparison.tex | LaTeX model comparison table |
+|   ├──  classification_report.tex | LaTeX per-class RF report |
+|   ├──  feature_importance.png | Feature importance bar chart |
+|   ├──  confusion_matrices.png | All 4 model confusion matrices |
+|   └──  model_comparison_chart.png | Visual performance comparison |
+│
+├── academic_risk_model_complete.ipynb
+│
+│
+├── outputs/
+│   ├── cv_curve.png
+│   ├── model_comparison_chart.png
+│   ├── RF confusion matrix.png
+│   ├── confusion_matrices.png
+│   ├── feature_importance.png
+│   ├── smote_comparison.png
+│   ├── eda_bivariate.png
+│   ├── eda_correlation.png
+│   ├── eda_target.png
+│   ├── feature_importance.csv
+│
+├── academic_risk_app.py
+│
+│
+└── requirements.txt
