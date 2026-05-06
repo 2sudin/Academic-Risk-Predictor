@@ -1,0 +1,1088 @@
+EMIS_ID,Private_Tutoring,Study_Hours,Sleep_Hours,Mobile_Usage_Hours,Motivation_Level,Stress_Level,Study_Environment,Parental_Education,Peer_Influence,Physical_Health_Rating,Attendance_Percentage,Risk_Level,Private_Tutoring_Encoded,Motivation_Level_Encoded,Stress_Level_Encoded,Study_Environment_Encoded,Parental_Education_Encoded,Peer_Influence_Encoded,Physical_Health_Rating_Encoded
+2703100948200261,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,"no, they distract me a lot",poor,5.26,0,0,2,0,3,4,4,4
+2703100947905775,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,class 9 to 10,neither encourage nor distract,good,73.21,1,0,2,2,3,1,3,2
+2703100947502924,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,56.46,0,0,2,4,0,4,3,2
+6900600047601170,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,72.25,1,0,0,4,0,2,3,2
+2703105517400543,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,4,4,3,2
+2703100948007084,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,62.68,1,0,2,0,0,4,3,2
+2703100948200377,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,55.02,0,0,2,4,4,4,3,2
+2703101338100066,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,78.47,2,0,2,4,0,2,3,2
+2703100947603532,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,4,0,4,3,2
+2703100947906656,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,72.25,1,1,3,4,4,1,1,2
+2703100948100175,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.03,2,0,2,0,0,5,0,1
+2703100947906661,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,62.2,1,0,2,4,4,4,3,2
+2703100948100132,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,66.51,1,0,2,0,0,5,3,2
+7100100017400586,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,66.51,1,1,2,4,0,4,3,2
+2703105437802421,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,79.9,2,0,0,4,0,2,1,2
+2703100947905657,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,68.42,1,0,2,4,4,4,3,2
+1704801528000606,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,41.63,0,0,4,4,0,0,1,2
+5004000518000480,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,72.73,1,1,4,5,3,4,4,5
+2703100947402067,yes,0.75,8.0,3.0,very highly motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,63.16,1,1,5,4,4,2,3,2
+2703100947905670,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,70.81,1,0,2,2,3,4,4,5
+2703100948200413,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.99,1,0,2,0,0,5,0,1
+2703100947906024,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.51,1,0,2,0,0,5,0,1
+2703100947906014,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,0,4,3,2
+5400600058100036,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,mostly distract me,fair,27.27,0,0,2,0,3,4,0,1
+2703100948006863,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,up to class 5,neither encourage nor distract,good,69.38,1,0,2,4,4,5,3,2
+5400600027901512,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,4,4,3,2
+2703100947402051,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.51,1,0,2,0,0,5,0,1
+2703100948200353,no,0.75,8.0,3.0,not motivated at all,almost always,with siblings,up to class 5,mostly distract me,fair,56.46,0,0,2,0,4,5,0,1
+2703100948200175,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.46,1,1,2,4,0,4,3,2
+2703100948200185,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,74.16,1,0,2,4,0,2,3,2
+2703100947402053,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,38.76,0,0,2,0,0,5,3,2
+2703100947704287,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,72.25,1,0,2,4,0,4,3,2
+2703100948200202,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,68.9,1,0,3,4,4,1,1,2
+2703100948200396,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,60.29,1,0,2,4,4,4,3,2
+2703100947906116,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,mostly distract me,fair,11.48,0,0,2,0,3,5,0,1
+2703100947905781,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,4,4,3,2
+2703100948007144,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,56.46,0,0,2,4,0,2,3,2
+3300900118000168,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,26.32,0,0,2,0,3,5,3,2
+2703100947905663,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.24,1,0,2,0,0,5,0,1
+7502200087906530,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,68.9,1,0,2,0,0,5,0,1
+2703100947603774,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.03,1,0,2,0,0,5,0,1
+2703100948200404,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,71.29,1,0,2,4,0,4,3,2
+2703100948200411,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,69.38,1,0,2,0,0,5,0,1
+2703106748000475,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,80.86,2,1,2,4,4,4,3,2
+2703106748000474,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,74.16,1,0,2,2,3,4,4,5
+2703100948200330,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,65.07,1,1,3,4,4,1,1,2
+1609000357600483,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,57.89,0,0,2,4,4,4,3,2
+2703100947905643,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,33.97,0,0,2,0,3,5,3,2
+2703100947906039,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,50.24,0,0,2,0,0,5,0,1
+7100600237600687,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,4,0,0,1,2
+2703100947905825,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,60.29,1,0,0,4,0,4,3,2
+2703100948006842,no,0.75,8.0,3.0,motivated,often,with siblings,higher secondary / plus two or above,mostly encourage me,fair,80.86,2,0,0,3,4,2,1,1
+2703100947805106,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,68.42,1,0,2,0,0,5,3,2
+1509700218003145,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,0,2,5,0,0,1,2
+2703100948200368,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,79.9,2,0,0,4,4,2,3,2
+2703102557300278,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,69.38,1,0,0,5,0,0,1,2
+2703100948200380,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,21.05,0,0,4,5,0,0,1,2
+2703100948200180,yes,0.75,8.0,3.0,very highly motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,53.59,0,1,5,4,4,2,3,2
+2703100948007017,yes,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,1,4,5,0,0,1,2
+1302400148000802,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,78.47,2,0,2,4,4,4,3,2
+2703100947905607,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,66.99,1,0,2,4,0,2,3,2
+2703100947905627,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,75.6,2,0,2,0,0,5,0,1
+3206800038003947,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,66.51,1,0,2,5,0,0,1,2
+2703106447801180,yes,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,79.43,2,1,0,5,0,2,1,2
+2703100947805521,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.99,2,0,2,0,0,5,0,1
+7100100347901014,yes,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,74.64,1,1,4,4,0,1,1,2
+2703100947905608,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.56,2,0,2,4,4,4,3,2
+2703100247601113,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,4,5,0,0,1,2
+2703100947906000,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.03,2,0,4,5,0,0,1,2
+2703100948200257,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,35.89,0,0,2,4,0,4,3,2
+2703100948100183,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.64,1,0,2,0,0,5,0,1
+2703100948006891,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.99,2,0,2,0,0,5,0,1
+2703100948200322,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,69.38,1,0,2,0,0,5,0,1
+2703100948200379,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,42.58,0,0,2,0,0,5,0,1
+2703100948007008,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,60.29,1,0,2,0,0,5,0,1
+2703100948200249,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703100948200278,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,30.14,0,0,2,0,3,5,3,2
+2703100948006867,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,poor,55.98,0,0,2,0,3,5,3,4
+2703100947805501,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,78.95,2,0,2,4,4,4,3,2
+1704800458100378,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,74.16,1,0,2,5,0,4,3,2
+6701900128000447,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,73.68,1,0,2,5,0,0,1,2
+2703100948200390,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,70.33,1,0,4,4,0,0,1,2
+2703100948006938,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,75.6,2,0,2,0,0,5,0,1
+2703100947906015,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,70.81,1,0,2,5,0,4,1,2
+2703106447801199,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,5,0,0,1,2
+7100700128001130,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,fair,0.0,0,0,1,1,1,3,2,1
+3305200258001779,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,4,4,3,2
+2703100947402052,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.94,1,0,2,0,0,5,0,1
+2703100947905822,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,70.81,1,0,2,4,0,4,3,2
+3301800058000017,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.21,1,0,2,4,4,4,3,2
+2703100947906008,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,69.38,1,0,3,4,4,1,1,2
+2703100947805357,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,74.16,1,0,4,4,0,1,1,2
+1704800458004215,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,72.25,1,1,2,5,0,4,1,2
+2703100948006949,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.94,1,0,2,0,0,5,0,1
+1100700057600667,no,0.75,8.0,3.0,motivated,never,with siblings,up to class 5,mostly encourage me,fair,78.95,2,0,0,2,4,5,1,1
+2703100947905620,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.16,1,0,2,4,4,4,3,2
+1905600098010012,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,68.9,1,0,3,4,4,1,1,2
+2703100948200219,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,71.29,1,0,4,4,0,0,1,2
+2703100948200157,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,44.98,0,0,2,4,4,4,3,2
+301500277100002,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,,,0,1,1,1,3,2,3
+2703100948200166,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,36.84,0,0,2,0,3,5,3,2
+1906400427902805,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,74.64,1,0,4,4,0,0,1,2
+2703100947905831,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,73.68,1,0,2,0,0,5,0,1
+2703100947301213,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,14.35,0,0,2,0,3,5,3,2
+1908900107801166,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,73.21,1,0,2,4,0,4,3,2
+2703100948100181,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,52.63,0,0,2,4,0,4,3,2
+1609000267401552,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,68.9,1,1,2,4,0,4,3,2
+1701700077901156,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,4,4,3,2
+2703100948100154,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,68.9,1,0,2,5,0,4,1,2
+2703100947805520,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,61.72,1,0,2,0,0,4,3,2
+2703100947805043,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,80.38,2,0,2,4,0,4,3,2
+2703100948200356,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.99,1,0,2,0,0,5,0,1
+2703100948100114,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,68.42,1,0,2,4,4,4,3,2
+2703104737801605,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,76.08,2,0,3,2,2,2,5,2
+2703100947704277,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,79.9,2,0,2,4,4,4,3,2
+7300300327601457,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,76.08,2,0,2,4,0,4,3,2
+2703107828000141,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,0,4,3,2
+2703100948006917,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,71.29,1,0,2,0,0,5,0,1
+2703100948200244,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,71.77,1,0,2,0,0,4,3,2
+2703100948100396,no,0.75,8.0,3.0,somewhat motivated,almost always,living room or kitchen,no formal education,mostly distract me,fair,50.24,0,0,4,0,0,4,0,1
+4705300107801102,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,57.89,0,0,3,4,4,1,1,2
+2504200058001037,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,71.77,1,0,2,4,0,4,3,2
+2703109927903368,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,67.46,1,0,2,0,0,4,3,2
+2703100948200309,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.24,1,0,2,0,0,5,0,1
+2703104838000091,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,2,5,0,0,1,2
+2703100947905798,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,49.28,0,0,2,4,4,4,3,2
+2703100948200226,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,27.27,0,0,2,0,3,5,3,1
+2703100948200225,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,73.68,1,0,2,5,0,0,1,2
+2703100947905849,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,39.23,0,0,2,4,4,4,3,2
+2703100948006866,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,62.2,1,0,2,0,0,5,3,2
+2703104018100091,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703100947603770,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,73.68,1,0,2,4,0,5,3,2
+2703103378001892,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,"no, they distract me a lot",fair,26.32,0,0,2,0,3,5,4,1
+1201400027600097,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,77.03,2,0,2,0,0,5,3,2
+2703100948200222,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,69.86,1,1,2,0,0,4,3,2
+2703100628000926,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,2,5,0,0,1,2
+2703106797700529,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,63.64,1,0,2,4,0,4,3,2
+1302400018200011,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,,,0,2,4,0,4,3,2
+3102000447802259,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,72.73,1,0,4,5,0,0,1,2
+2703100948007035,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,64.59,1,0,2,0,0,5,0,1
+2703102658000905,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,4,0,4,3,2
+2703100948200270,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,56.46,0,1,2,4,4,4,3,2
+2703100948006859,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,64.59,1,0,2,0,3,5,3,2
+2703100947805491,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,70.81,1,0,2,4,4,4,3,2
+2703100948006900,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,68.9,1,0,4,4,0,0,1,2
+2703100948200424,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.99,1,0,2,0,0,5,0,1
+2703104737601308,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,71.29,1,0,3,2,2,2,5,2
+2703100948200369,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,56.94,0,0,2,0,0,5,0,1
+2703104007900910,yes,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,70.81,1,1,4,4,0,1,1,2
+2703100948006853,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,73.21,1,1,2,0,0,5,3,2
+2703100947906009,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,68.42,1,0,2,4,0,4,3,2
+3406200128000237,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,49.76,0,0,4,4,0,1,1,2
+2502700888004085,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.68,1,0,0,4,0,1,1,2
+2703100947906025,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,77.51,2,0,2,0,0,4,3,2
+2703100797400463,no,0.75,8.0,3.0,not motivated at all,often,living room or kitchen,up to class 5,mostly distract me,fair,59.81,0,0,2,3,0,5,0,1
+2203400087801666,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,4,4,3,2
+2703100948200263,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,35.41,0,0,2,0,3,5,3,2
+2703100947905765,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,59.81,0,0,2,4,4,4,3,2
+1200200057600859,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.51,2,0,2,0,0,5,0,1
+2703100947704608,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,fair,46.89,0,0,2,5,0,4,3,1
+2703100948200183,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,26.79,0,0,2,0,3,5,3,1
+2703100948100173,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,48.33,0,0,4,4,0,0,1,2
+2703100947905998,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,63.16,1,0,2,0,0,5,0,1
+2703100948006969,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,73.21,1,0,0,4,4,2,1,2
+7101000987600727,no,0.75,8.0,3.0,motivated,often,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,78.47,2,0,0,3,0,2,3,2
+7101000087807108,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,4,0,0,1,2
+2703100948200170,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,27.27,0,0,2,0,3,5,3,2
+1701800197600695,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,66.99,1,0,2,5,0,4,1,2
+2703107018000412,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,78.47,2,0,2,0,0,5,0,1
+2703100948200217,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,45.45,0,0,2,0,3,5,3,2
+1704800457803423,yes,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,69.86,1,1,4,4,0,0,1,2
+2703100747900279,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,56.94,0,0,2,0,3,5,3,2
+2703100948006865,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,73.68,1,0,2,0,0,5,3,2
+2703100948100394,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703106877900722,no,0.75,8.0,3.0,motivated,sometimes,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,78.47,2,0,0,5,4,2,3,2
+2703100947906304,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.51,2,0,2,4,0,4,3,2
+2703100948007315,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.03,2,0,2,0,0,5,0,1
+2703100947905654,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.99,1,0,2,0,0,5,0,1
+1705400048000013,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,46.89,0,1,4,5,3,4,4,5
+2703100948200294,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,68.42,1,0,2,4,0,4,3,2
+2703100948006982,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.24,1,0,2,0,0,5,0,1
+2703100947906012,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,mostly distract me,fair,28.71,0,0,2,0,0,4,0,1
+2703104757200015,no,0.75,8.0,3.0,somewhat motivated,never,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.95,2,0,4,2,4,2,1,2
+2703108688000053,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,4,0,4,3,2
+2200400338001052,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,78.47,2,1,2,4,0,4,3,2
+7502200168001226,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,74.64,1,0,3,4,4,1,1,2
+2703100948200214,no,0.75,8.0,3.0,not motivated at all,almost always,nan,up to class 5,neither encourage nor distract,good,9.57,0,0,2,0,1,5,3,2
+2702300197601362,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,54.07,0,1,3,4,4,1,1,2
+2703100948006885,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,67.46,1,0,2,4,4,4,3,2
+2703100127901247,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703100948200172,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,71.29,1,0,2,4,4,4,3,2
+2703100947905764,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,0,4,3,2
+2703106458001853,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.51,1,0,2,0,0,5,0,1
+1505000028003086,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.46,1,0,2,4,0,4,3,2
+2703100948100187,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,68.9,1,0,2,4,4,4,3,2
+2703100948100150,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.56,2,0,2,4,4,4,3,2
+2703100947704603,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,69.86,1,0,2,4,0,4,3,2
+2703100747800251,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.64,1,1,2,4,0,4,3,2
+2703100948006927,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,70.33,1,0,2,0,0,5,0,1
+2703100947905677,no,0.75,8.0,3.0,not motivated at all,almost always,with siblings,up to class 5,mostly distract me,fair,45.93,0,0,2,0,4,5,0,1
+2703100947905796,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,65.55,1,0,2,0,0,4,3,2
+2703100948200301,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,56.94,0,0,4,5,0,0,1,2
+7104200387300261,no,0.75,8.0,3.0,motivated,almost always,living room or kitchen,up to class 5,mostly distract me,poor,41.63,0,0,0,0,0,5,0,4
+2703100947905660,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,66.03,1,0,2,0,0,5,3,2
+2703100947704594,yes,0.75,8.0,3.0,very highly motivated,almost always,living room or kitchen,up to class 5,mostly distract me,fair,42.58,0,1,5,0,0,5,0,1
+2703100948200289,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.16,1,0,2,0,0,5,0,1
+1901000238002470,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,73.21,1,0,3,2,2,2,5,2
+2703100948200357,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,68.42,1,0,2,0,0,5,0,1
+7502200088007647,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,"no, they distract me a lot",fair,53.59,0,0,2,0,0,4,4,1
+2703100948200143,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,42.58,0,0,2,0,3,5,3,2
+2703100947905604,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.56,2,1,2,4,4,4,3,2
+6601500018001504,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703100947905766,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.56,2,0,2,4,4,4,3,2
+2703100948100184,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.94,1,0,2,0,0,5,0,1
+2703100947906638,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,70.81,1,0,2,0,0,5,3,2
+3102000297804348,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,44.5,0,1,3,4,4,1,1,2
+2703100948006864,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,73.21,1,0,2,0,0,5,3,2
+5604000678004262,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+7101000607904448,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,52.15,0,0,2,4,0,4,3,2
+2703100948200319,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,19.14,0,1,4,5,3,4,4,5
+1906400648000872,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,31.58,0,0,2,4,4,4,3,2
+2703100947906040,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,"no, they distract me a lot",fair,41.63,0,0,2,0,0,5,4,1
+2703100947704589,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,74.64,1,0,4,4,0,0,1,2
+2703100947905826,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,77.03,2,0,2,4,0,2,3,2
+2703100948007313,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,73.68,1,0,2,5,0,0,1,2
+2703100948200211,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,mostly distract me,excellent,38.76,0,0,2,0,3,5,0,0
+2703100948006932,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.46,1,0,2,4,0,4,3,2
+2703100948100130,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,80.86,2,0,2,4,0,4,3,2
+2703100947805107,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,,,0,2,0,0,4,3,2
+2703100947906029,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,62.68,1,1,2,4,0,4,3,2
+2703103527903027,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,5,0,0,1,2
+2703100948006952,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,63.16,1,0,0,4,0,1,1,2
+2703100947805053,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,77.03,2,0,3,4,4,1,1,2
+2703100947905631,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,71.77,1,1,4,5,3,4,4,5
+2703100948200239,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,70.81,1,0,2,4,0,4,3,2
+2703100948007020,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,60.29,1,0,2,4,4,4,3,2
+2703100948100121,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,76.08,2,1,4,5,3,4,4,5
+5201600097701454,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703100948200334,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,58.85,0,0,2,4,0,2,3,2
+2703100948006970,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,58.37,0,0,2,0,0,5,0,1
+2703100948200177,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,33.49,0,0,2,0,3,5,3,2
+3203200127801458,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,7.66,0,0,2,0,3,5,3,2
+2703100948007031,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,67.46,1,0,2,4,4,4,3,2
+6901200037501809,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,80.38,2,0,4,5,0,2,3,2
+2703106447801190,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,1,2,5,0,0,1,2
+2703106747700213,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,very poor,32.54,0,0,2,0,0,5,3,5
+3301800058000031,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.64,1,0,0,4,0,4,3,2
+2703100947603776,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,73.21,1,0,2,0,0,5,0,1
+2703104838000083,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,78.47,2,0,2,0,0,5,0,1
+2703100947805519,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,4,4,3,2
+2703106447801205,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,55.02,0,0,2,4,0,4,3,2
+2703100948006855,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,40.67,0,0,2,0,3,5,3,2
+2703100947402066,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,41.15,0,0,2,4,4,4,3,2
+2703100947603766,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,73.68,1,0,2,5,0,4,1,2
+2703100948007026,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.94,1,0,2,0,0,5,0,1
+2703100948200236,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,26.79,0,0,2,0,3,5,3,2
+2703100948200242,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,76.56,2,0,3,2,2,2,5,2
+2703100947603777,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,69.86,1,0,2,0,0,4,3,2
+2703100948006822,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,81.34,2,0,2,0,0,4,3,2
+2703100948200276,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,70.81,1,0,2,4,0,2,3,2
+2703100948200207,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,72.25,1,0,4,5,0,0,1,2
+2703100948200336,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,54.55,0,0,2,5,0,0,1,2
+2703100947805017,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,66.99,1,0,3,4,4,1,1,2
+5100900077600002,no,0.75,8.0,3.0,somewhat motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,72.25,1,0,4,4,4,1,1,2
+2703100947906698,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,64.59,1,0,2,0,0,4,3,2
+2703100947905811,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,55.02,0,0,2,4,0,4,3,2
+2703100948006906,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,53.59,0,0,4,4,0,0,1,2
+3305200708000073,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,72.25,1,0,2,5,0,4,1,2
+2703100947301217,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.64,1,0,2,0,0,5,0,1
+2703100948200238,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,58.85,0,1,2,4,4,4,3,2
+2703100948006978,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,71.77,1,0,2,4,0,4,3,2
+2703100948200258,yes,0.75,8.0,3.0,motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,49.28,0,1,0,2,2,2,5,2
+2703100948006849,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,77.03,2,0,2,0,0,4,3,2
+2703100947502965,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,no formal education,mostly encourage me,good,65.07,1,0,4,5,0,4,1,2
+1806000038002245,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,64.11,1,0,2,5,0,4,1,2
+2703100948006994,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,mostly distract me,fair,38.76,0,0,2,0,3,4,0,1
+2703100948200308,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,2,5,0,0,1,2
+2703100948200235,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,4,4,3,2
+1906400478001270,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,0,4,5,0,0,1,2
+2703100947906022,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,39.23,0,0,2,0,0,5,0,1
+2703100948200274,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,33.01,0,0,2,0,3,5,3,2
+2703100948200388,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,62.68,1,0,2,0,0,5,0,1
+2703100948200162,yes,0.75,8.0,3.0,motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,67.94,1,1,0,2,2,2,5,2
+2703100948200150,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,67.46,1,0,3,2,2,2,5,2
+2703100947704607,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,66.99,1,0,2,0,3,5,3,2
+7101000727900846,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,48.8,0,0,2,5,0,0,1,2
+2703100948200425,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,63.64,1,0,2,0,0,5,0,1
+2703100948007250,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,67.46,1,0,2,5,0,0,1,2
+2703100947805030,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,73.21,1,0,2,5,0,0,1,2
+2703102028100137,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.99,2,0,0,4,0,4,3,2
+2703107828000307,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,fair,78.95,2,0,0,4,4,2,1,1
+2703100948200363,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.99,2,0,2,0,0,5,0,1
+2703100948200394,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.24,1,0,2,0,0,5,0,1
+2703100947905612,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.03,2,0,2,5,0,0,1,2
+2703100947502967,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,,,0,2,0,0,5,0,1
+2703105518001330,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,3.83,0,0,3,4,4,1,1,2
+2703100948006840,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.16,1,0,2,4,0,4,3,2
+2703100947905839,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,65.07,1,0,2,0,0,5,0,1
+1600300067901645,no,0.75,8.0,3.0,somewhat motivated,almost always,living room or kitchen,up to class 5,mostly distract me,fair,52.63,0,0,4,0,0,5,0,1
+2601200238001423,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,72.25,1,0,2,2,3,4,4,5
+2703100948006925,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.72,1,0,2,0,0,5,0,1
+2703100948006821,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,43.06,0,0,2,0,3,5,3,2
+5003400067902918,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,poor,76.56,2,0,2,0,3,5,3,4
+2703106448001705,no,0.75,8.0,3.0,not motivated at all,often,living room or kitchen,up to class 5,mostly distract me,fair,46.89,0,0,2,3,0,5,0,1
+2703100948007034,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,53.11,0,0,2,4,0,2,3,2
+2703100947805062,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.03,2,0,2,0,0,5,0,1
+2600200077501218,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,64.59,1,0,4,4,0,1,1,2
+3801100328009819,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,70.33,1,0,4,5,0,0,1,2
+1704801137901608,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,69.38,1,0,2,4,4,4,3,2
+2703100947704614,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.99,2,0,2,5,0,0,1,2
+3300900158000042,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,60.77,1,0,2,4,4,4,3,2
+2703105558100136,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,,,0,2,4,4,4,3,2
+1701700078001775,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,73.21,1,0,0,4,3,4,4,5
+2002500648000433,no,0.75,8.0,3.0,somewhat motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,75.6,2,0,4,4,4,1,1,2
+2703100948200385,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,65.07,1,0,3,4,4,1,1,2
+1904000207700993,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,68.42,1,0,2,5,0,0,1,2
+2703106448001542,no,0.75,8.0,3.0,motivated,sometimes,own quiet room or dedicated study space,higher secondary / plus two or above,mostly encourage me,good,76.08,2,0,0,5,2,2,1,2
+1600300067300131,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,48.33,0,0,4,4,0,1,1,2
+7200900207600943,no,0.75,8.0,3.0,somewhat motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,77.03,2,0,4,4,4,1,1,2
+1305500017800706,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,75.6,2,0,2,4,4,4,3,2
+2703100948007022,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,65.07,1,0,2,2,3,4,4,5
+1609000077503661,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,"yes, always encourage me",good,77.51,2,1,3,4,4,1,5,2
+2703100948200255,yes,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,71.29,1,1,4,4,0,0,1,2
+2703100948006957,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,73.21,1,0,2,0,0,4,3,2
+2703100947805516,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,73.21,1,0,2,0,0,5,0,1
+2703100947905770,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,76.56,2,0,2,4,0,2,3,2
+2703100948006838,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.99,2,0,2,5,0,0,1,2
+2703100948200297,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,0,5,0,0,1,2
+2703102908002104,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,43.54,0,1,2,4,4,4,3,2
+7101200118000451,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,no formal education,mostly encourage me,good,48.8,0,0,4,5,0,4,1,2
+1901000237400851,yes,0.75,8.0,3.0,very highly motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,76.56,2,1,5,4,4,2,1,2
+2702200457800559,no,0.75,8.0,3.0,very highly motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,75.6,2,0,5,5,4,2,1,2
+4601300128200102,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,4,4,0,0,1,2
+2601200468100121,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,80.86,2,0,0,4,3,4,4,5
+2703100948200232,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,75.6,2,0,2,4,4,4,3,2
+2703100948100148,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,poor,36.36,0,0,2,0,3,5,3,4
+2703100948100151,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,up to class 5,mostly encourage me,good,81.34,2,0,0,4,0,5,1,2
+2002500628000115,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,77.99,2,0,2,0,0,4,3,2
+2703100947905803,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,60.77,1,0,2,4,4,4,3,2
+2703100948007325,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,56.46,0,0,4,4,0,1,1,2
+2703100948006897,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.51,2,0,2,0,0,5,0,1
+2703100948200159,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,43.54,0,0,4,5,0,0,1,2
+1609000077302622,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,45.45,0,0,2,4,0,4,3,2
+2703100947905819,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.95,2,0,0,4,4,2,1,2
+2703100948006852,no,0.75,8.0,3.0,motivated,sometimes,with siblings,up to class 5,mostly encourage me,good,78.47,2,0,0,5,4,5,1,2
+7102300267802421,yes,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,28.23,0,1,3,2,2,2,5,2
+6900500168100066,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,80.38,2,0,0,4,3,4,4,5
+7102400237400851,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,0,2,5,0,0,1,2
+2703100948006916,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly distract me,fair,49.28,0,0,2,5,0,4,0,1
+2703100947906026,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,78.95,2,0,0,4,4,2,3,2
+2703100947906077,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,33.97,0,1,2,4,4,4,3,2
+7101000017501673,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,52.63,0,0,3,4,4,1,1,2
+2703100948006999,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,44.5,0,0,2,4,0,4,3,2
+2703100948200288,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,0,4,3,2
+2703100948200412,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,75.6,2,0,2,4,4,4,3,2
+2703100947906664,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,65.55,1,0,2,0,0,5,0,1
+2703100947905641,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,63.16,1,0,2,0,0,5,0,1
+2703105558100132,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,0,4,3,2
+2703100948200383,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,41.63,0,0,2,0,0,5,0,1
+3305200188006378,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,4,0,4,3,2
+1600800028100135,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,73.21,1,0,0,4,3,4,4,5
+2703100948006992,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,81.34,2,0,2,4,4,4,3,2
+2703100948006914,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,70.33,1,0,2,0,0,5,0,1
+2703100948006941,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,71.77,1,0,0,4,3,4,4,5
+2703100948006961,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,62.68,1,0,2,0,0,5,0,1
+2703100948006997,no,0.75,8.0,3.0,motivated,sometimes,own quiet room or dedicated study space,higher secondary / plus two or above,mostly encourage me,good,68.9,1,0,0,5,2,2,1,2
+1600700067501355,no,0.75,8.0,3.0,very highly motivated,almost always,living room or kitchen,up to class 5,mostly distract me,poor,55.02,0,0,5,0,0,5,0,4
+5900700287707886,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,76.08,2,0,2,4,0,4,3,2
+2703100947805070,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,52.63,0,0,2,0,3,5,3,2
+2703100947704582,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,61.24,1,0,2,4,0,4,3,2
+7300200067600430,yes,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,neither encourage nor distract,good,78.47,2,1,2,0,3,4,3,2
+2703100948006839,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,75.12,2,0,2,0,0,5,3,2
+7104200087501239,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.94,1,0,2,0,0,5,0,1
+2703100948007085,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,53.11,0,0,2,4,4,4,3,2
+2703100948100120,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,78.95,2,0,2,4,4,4,3,2
+2703100948007319,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.51,1,0,2,0,0,5,0,1
+2703100948200332,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,67.46,1,0,2,5,0,4,1,2
+2703100948006889,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,75.12,2,0,2,0,0,5,3,2
+2703100948100126,no,0.75,8.0,3.0,somewhat motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,74.16,1,0,4,4,4,1,1,2
+2703100948006936,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,4,4,0,0,1,2
+2703100948200154,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,35.89,0,0,2,0,3,5,3,2
+2703100628000967,yes,0.75,8.0,3.0,slightly motivated,almost always,with siblings,up to class 5,mostly distract me,fair,53.11,0,1,3,0,4,5,0,1
+2703100948100174,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,54.07,0,0,2,5,0,0,1,2
+2703100947402041,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,79.9,2,0,2,0,0,5,3,2
+2703100948006956,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.51,2,0,2,4,4,4,3,2
+2703100948100127,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,65.07,1,0,2,4,0,2,3,2
+2703101597902111,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,79.43,2,0,2,4,0,4,3,2
+2703100948200271,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,73.21,1,0,4,4,0,0,1,2
+2703100948006989,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,57.89,0,0,2,0,0,5,0,1
+2703100948200160,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,77.99,2,0,0,4,4,2,3,2
+2703100947905815,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,77.99,2,0,2,5,0,4,1,2
+1704800058002534,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,71.29,1,0,0,4,3,4,4,5
+2703100948100160,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,61.24,1,0,2,4,0,4,3,2
+2703100948200326,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,69.38,1,0,4,5,0,0,1,2
+2703100948200221,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,26.32,0,0,2,0,0,5,3,2
+2703100948100176,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,67.94,1,0,4,4,0,0,1,2
+2703100948007029,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,70.81,1,0,2,0,0,5,0,1
+1906400377500797,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,60.77,1,0,2,0,0,4,3,2
+1401100068002610,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.64,1,0,2,0,0,5,0,1
+2703100947905804,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,65.55,1,1,2,4,0,4,3,2
+2703100948200422,no,0.75,8.0,3.0,motivated,rarely,with siblings,no formal education,neither encourage nor distract,good,64.59,1,0,0,4,4,4,3,2
+2703100947905812,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.16,1,0,2,4,0,4,3,2
+2703100948200324,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,4,0,4,3,2
+2703100948200345,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,80.86,2,0,0,5,0,2,1,2
+3204100088000001,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,64.59,1,0,2,0,0,4,3,2
+2703100948100136,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,66.03,1,0,2,5,0,4,1,2
+2703100948006884,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,74.16,1,0,2,5,0,4,1,2
+2703100948200227,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,17.7,0,0,2,0,3,5,3,2
+2703108677800478,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,46.89,0,0,2,0,0,5,0,1
+1803400158001587,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,43.06,0,0,3,4,4,1,1,2
+1606300178001538,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.12,2,1,2,5,0,0,1,2
+2703100948200543,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,,,0,2,0,0,4,3,2
+2703100948200248,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,"no, they distract me a lot",very poor,15.31,0,0,2,0,3,4,4,5
+2703100747900273,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,50.72,0,0,2,4,4,4,3,2
+2703100947905793,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.03,2,0,2,0,0,5,0,1
+2703104018100373,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,64.11,1,1,3,4,4,1,1,2
+2703100797901685,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,66.03,1,0,4,4,0,1,1,2
+2703100948200148,no,0.75,8.0,3.0,motivated,never,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,80.38,2,0,0,2,0,2,1,2
+2703100948006907,no,0.75,8.0,3.0,motivated,often,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,78.95,2,0,0,3,4,2,3,2
+5902900177901579,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,72.73,1,0,2,4,4,4,3,2
+2703100947603721,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,76.08,2,0,2,4,0,2,3,2
+2703100948200335,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,64.11,1,0,2,0,0,5,0,1
+2703100947905624,no,0.75,8.0,3.0,somewhat motivated,almost always,living room or kitchen,up to class 5,mostly distract me,fair,53.59,0,0,4,0,0,5,0,1
+2703100948200386,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,71.29,1,1,2,5,0,4,1,2
+2703100947805533,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,72.73,1,0,2,0,0,4,3,2
+2703100948200410,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,20.1,0,0,2,0,3,5,3,1
+2703100947805512,no,0.75,8.0,3.0,motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,79.43,2,0,0,5,4,2,1,2
+2703100947906031,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,65.07,1,0,2,0,0,5,0,1
+2703100948006958,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,57.89,0,0,2,2,3,4,4,5
+2703100947905841,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,up to class 5,neither encourage nor distract,good,74.16,1,0,2,4,4,5,3,2
+6904500037500620,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,class 6 to 8,neither encourage nor distract,good,60.77,1,0,2,4,0,0,3,2
+2703106017900731,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,2,5,0,0,1,2
+2703100948100170,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,70.33,1,0,2,5,0,4,3,2
+1503900127500060,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,59.81,0,0,2,4,0,4,3,2
+1609000077101457,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,76.56,2,0,0,4,3,4,4,5
+2703106868001771,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,65.55,1,1,2,5,0,0,1,2
+2703100947905771,yes,0.75,8.0,3.0,somewhat motivated,sometimes,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,76.08,2,1,4,5,4,2,3,2
+2504200058001012,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,63.16,1,0,2,4,0,4,3,2
+2703100947905763,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,66.99,1,1,2,0,0,4,3,2
+1602400197300005,yes,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,higher secondary / plus two or above,mostly encourage me,fair,78.47,2,1,4,5,0,2,1,1
+2703100947905636,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,up to class 5,mostly distract me,fair,59.33,0,0,2,5,0,5,0,1
+900500077200272,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,58.85,0,0,2,2,3,4,4,5
+103200067600005,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,4,4,3,2
+2703100948100133,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,65.55,1,0,2,4,4,4,3,2
+2703100948200216,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,70.81,1,0,2,0,0,5,0,1
+2703100948007003,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,61.24,1,0,2,4,0,2,3,2
+2703100948200351,yes,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,72.25,1,1,4,5,0,0,1,2
+2703100948200266,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,good,28.23,0,0,2,0,0,5,0,2
+1905500147801224,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,44.02,0,0,2,0,0,5,0,1
+2703100948006993,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,74.16,1,0,2,0,0,4,3,2
+2703100948200398,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.64,1,0,2,0,0,5,0,1
+2703100947905844,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,4,5,0,0,1,2
+1803400307300052,no,0.75,8.0,3.0,motivated,rarely,with siblings,up to class 5,neither encourage nor distract,good,77.03,2,0,0,4,4,5,3,2
+2703100948200290,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,54.55,0,0,2,4,0,4,3,2
+2703100947905869,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,73.68,1,0,2,0,0,5,0,1
+2703103498000647,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,2,5,0,0,1,2
+2703100948200260,yes,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,63.16,1,1,3,2,2,2,5,2
+2703100948006856,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,71.77,1,0,2,4,0,4,3,2
+2703100947603723,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,62.2,1,0,2,0,0,5,0,1
+2703100947905788,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,59.33,0,0,2,0,0,4,3,2
+2502701178000154,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,72.73,1,0,0,4,0,2,3,2
+2703105558100129,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,0,4,3,2
+1906800017901503,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,47.85,0,0,2,5,0,4,1,2
+2703100948006858,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,54.55,0,0,2,0,0,5,3,2
+2703100947905828,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,79.43,2,1,2,4,0,4,3,2
+3305200668000176,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,30.62,0,0,2,0,3,5,3,2
+2703100948006890,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,76.56,2,0,2,0,0,5,3,2
+2703100948200338,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,49.76,0,0,2,0,0,5,0,1
+2703100947906671,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,neither encourage nor distract,good,61.72,1,0,2,0,3,4,3,2
+2703100948007018,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,4,4,3,2
+2703100948006893,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,55.02,0,0,2,5,0,4,1,2
+2703100948200196,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,72.73,1,0,2,4,4,4,3,2
+2703100948200283,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,64.59,1,0,3,4,4,1,1,2
+2703108688100132,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,72.25,1,0,4,4,0,0,1,2
+2703100247602008,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,67.46,1,0,2,0,0,4,3,2
+2703100948100115,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,71.29,1,0,2,5,0,0,1,2
+2703100948006980,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,71.29,1,0,2,0,3,5,3,2
+1903400128000026,no,0.75,8.0,3.0,very highly motivated,sometimes,living room or kitchen,up to class 5,mostly distract me,fair,57.89,0,0,5,5,0,5,0,1
+3203300168001154,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,73.68,1,0,2,5,0,4,1,2
+2703100948007016,no,0.75,8.0,3.0,somewhat motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.47,2,0,4,4,4,2,1,2
+1806000117600440,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.03,2,0,2,5,0,0,1,2
+2703100948007012,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,70.81,1,0,4,4,0,1,1,2
+2703100948100397,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.16,1,1,2,4,4,4,3,2
+1606300507601120,no,0.75,8.0,3.0,motivated,rarely,with siblings,up to class 5,mostly encourage me,good,79.43,2,0,0,4,4,5,1,2
+2703100948100217,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,26.79,0,0,2,0,3,5,3,1
+2504200058001038,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,2,5,0,0,1,2
+5900700438001042,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,73.21,1,0,2,0,0,4,3,2
+2703100947905637,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,65.55,1,0,2,0,0,5,0,1
+2703108417900804,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,no formal education,mostly encourage me,good,63.64,1,0,0,5,0,4,1,2
+2703100948200418,no,0.75,8.0,3.0,not motivated at all,almost always,with siblings,up to class 5,mostly distract me,fair,53.59,0,0,2,0,4,5,0,1
+502700048000889,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,"no, they distract me a lot",very poor,0.0,0,0,2,0,3,4,4,5
+2703108807900780,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.16,1,0,0,4,0,4,3,2
+2703100948200327,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,2,5,0,0,1,2
+2703100947906018,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.21,1,0,2,4,4,4,3,2
+2502900118000346,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,7.66,0,0,2,4,4,4,3,2
+2703100948200282,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,70.33,1,0,2,4,0,4,3,2
+2703100948200145,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,78.47,2,1,2,0,0,4,3,2
+2703105498002591,yes,0.75,8.0,3.0,motivated,rarely,with siblings,no formal education,neither encourage nor distract,good,75.6,2,1,0,4,4,4,3,2
+2703100947906658,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,62.68,1,0,2,4,4,4,3,2
+2703100948006870,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,64.59,1,0,2,0,0,4,3,2
+2703100948100186,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,69.38,1,0,2,0,0,5,0,1
+2703100947502947,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,60.29,1,0,2,0,0,5,0,1
+6700400157600287,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,4,0,0,1,2
+2703100947603742,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,68.42,1,0,2,2,3,4,4,5
+6904700047200022,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.46,1,0,2,0,0,5,0,1
+2703100948200307,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.64,1,0,4,5,0,0,1,2
+2703100947704601,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,36.84,0,0,2,0,3,5,3,2
+2703100947905834,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,72.73,1,1,4,5,3,4,4,5
+1600800027704788,no,0.75,8.0,3.0,motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,72.25,1,0,0,4,4,1,1,2
+2601200367900938,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,no formal education,mostly encourage me,good,65.55,1,0,4,5,0,4,1,2
+2703103497900560,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,72.25,1,0,2,4,0,4,3,2
+2703100948200245,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,76.08,2,0,2,5,0,4,1,2
+2703100947805065,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,54.55,0,0,2,0,0,5,0,1
+1506200037700073,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,62.2,1,0,2,4,4,4,3,2
+2703100948006990,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.46,1,0,2,0,0,5,0,1
+2703100948100152,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,55.02,0,0,2,0,0,5,0,1
+2703100948200229,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,71.29,1,0,2,4,0,4,3,2
+2703100948200174,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,74.16,1,0,0,4,3,4,4,5
+2703100948007312,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,66.99,1,0,2,5,0,0,1,2
+2703100948200233,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,75.6,2,1,2,4,4,4,3,2
+2703100948100218,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,27.27,0,0,2,0,3,5,3,2
+2703100947905767,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,80.38,2,1,2,4,0,4,3,2
+2703100947905678,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,58.37,0,0,2,0,0,5,0,1
+2703100948006880,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,72.73,1,0,4,4,0,1,1,2
+2703100947502966,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,70.81,1,0,4,4,0,0,1,2
+2703100948200382,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,70.81,1,0,2,4,4,4,3,2
+2703100947906121,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,65.07,1,0,2,4,4,4,3,2
+2703100948200293,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,65.07,1,0,2,4,4,4,3,2
+2703100947906042,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,59.33,0,0,2,5,0,0,1,2
+3402001418002648,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,,,0,2,0,0,5,0,1
+2703100947704281,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,60.77,1,0,2,0,0,5,3,2
+2705900057700802,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,0,0,5,0,0,1,2
+5203700077600864,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,64.11,1,0,2,0,0,5,0,1
+2502701837912419,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,65.55,1,0,2,4,4,4,3,2
+4403100098000973,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,75.6,2,0,2,0,0,4,3,2
+2703101727100202,yes,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.47,2,1,0,4,4,2,1,2
+2703100947704267,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,66.51,1,0,2,0,3,5,3,2
+2502700188000320,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,55.98,0,0,2,0,0,5,0,1
+2703100947905840,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,73.21,1,0,0,4,0,4,3,2
+2703109767901163,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,75.6,2,0,2,0,0,4,3,2
+2703100948200337,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.12,2,0,4,5,0,0,1,2
+2703100948200231,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.03,2,0,2,4,4,4,3,2
+2104000078000396,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.21,1,0,2,4,4,4,3,2
+6201300027700318,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.16,1,0,2,4,0,4,3,2
+2703100948006971,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.99,1,0,2,0,0,5,0,1
+7101001257200241,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,66.51,1,0,2,4,4,4,3,2
+2703100947906052,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,0,4,3,2
+2703100948100166,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,76.08,2,0,2,4,0,2,3,2
+2703100948200372,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,73.68,1,0,2,0,0,4,3,2
+7200700018002700,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,48.8,0,0,4,4,0,1,1,2
+2703100798001810,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,74.64,1,0,2,5,0,4,3,2
+2703100948200365,no,0.75,8.0,3.0,not motivated at all,sometimes,study on bed or floor,up to class 5,mostly distract me,excellent,33.01,0,0,2,5,3,5,0,0
+901300037500159,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,41.63,0,0,2,0,0,5,3,2
+7100100397901652,no,0.75,8.0,3.0,motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,69.86,1,0,0,4,4,1,1,2
+2503700128002096,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,74.64,1,0,2,5,0,4,1,2
+2703101338001879,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,69.38,1,0,3,2,2,2,5,2
+2703105537502270,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,60.77,1,0,4,5,0,4,3,2
+2703100948200399,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,79.43,2,0,2,4,4,4,3,2
+2703100947805505,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,66.03,1,0,4,4,0,0,1,2
+2703100948006898,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.56,2,0,2,4,4,4,3,2
+2703100947603780,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,75.12,2,0,4,4,0,0,1,2
+2703100948006848,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,47.37,0,0,2,4,4,4,3,2
+2703100948006919,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,72.25,1,0,2,0,0,5,0,1
+1101700028000287,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,74.16,1,0,2,0,0,5,3,2
+2703100947805066,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,0,4,3,2
+2502300067903036,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,65.07,1,0,2,4,0,4,3,2
+2703100948007309,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,77.03,2,0,2,0,3,5,3,2
+2703100948200359,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,76.56,2,0,2,0,0,5,0,1
+2703105437301354,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,70.33,1,1,4,5,3,4,4,5
+2703100948100221,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,53.59,0,0,2,0,0,5,0,1
+2703100947906038,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,72.25,1,0,4,4,0,1,1,2
+2703100948200305,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,"no, they distract me a lot",good,34.45,0,0,2,0,3,4,4,2
+3201900197700168,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,76.56,2,0,2,0,0,5,0,1
+2703100948006831,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,74.16,1,0,2,5,0,4,3,2
+901300318100009,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,72.25,1,0,2,4,4,4,3,2
+1400700188000435,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,excellent,39.71,0,0,2,0,0,5,0,0
+2703100947905776,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.21,1,0,2,4,4,4,3,2
+2703100947502806,no,0.75,8.0,3.0,motivated,never,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,fair,78.95,2,0,0,2,0,2,3,1
+2703100948200189,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,50.24,0,0,2,4,0,4,3,2
+2703100948006981,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,1,2,5,0,0,1,2
+2703100947805077,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,68.42,1,0,2,0,0,5,0,1
+1801000027700558,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,mostly distract me,good,26.32,0,0,2,0,3,5,0,2
+7101200228001012,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,74.16,1,0,4,4,0,1,1,2
+5900700747900617,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,no formal education,mostly encourage me,good,48.8,0,0,0,5,0,4,1,2
+2703100947905671,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,68.9,1,0,2,4,0,4,3,2
+2703100947704600,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,76.08,2,0,2,0,0,5,0,1
+2703100948200315,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,28.23,0,0,2,5,0,0,1,2
+2703100947502929,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,55.98,0,0,2,4,4,4,3,2
+2703100948200427,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,15.79,0,0,2,0,3,5,3,2
+1610100077300101,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,64.59,1,0,4,4,0,0,1,2
+2703100948200296,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,79.43,2,0,0,4,4,2,1,2
+2703100948200234,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,75.6,2,0,2,4,4,4,3,2
+2703100947906027,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,73.68,1,0,2,0,0,4,3,2
+2703100948007004,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.51,1,0,2,0,0,5,0,1
+2703100947805048,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,65.55,1,0,2,0,0,5,0,1
+2703105558100110,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,76.56,2,0,2,0,0,5,0,1
+7300600027901304,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,75.12,2,0,2,0,0,5,0,1
+1909300017901168,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,78.95,2,0,2,4,4,4,3,2
+2703100948200168,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.03,2,0,4,5,0,0,1,2
+2703105437902619,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,4,4,3,2
+2703100948200152,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,76.56,2,0,4,4,0,1,1,2
+2703100948006875,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,37.32,0,0,2,0,3,5,3,2
+2703100947905853,no,0.75,8.0,3.0,not motivated at all,almost always,with siblings,up to class 5,mostly distract me,fair,55.02,0,0,2,0,4,5,0,1
+1704800458004855,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,70.33,1,0,0,4,3,4,4,5
+2703109638004490,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,,,0,2,0,0,5,0,1
+2703100948200146,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,79.43,2,0,2,0,0,4,3,2
+2703103497900587,no,0.75,8.0,3.0,motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.95,2,0,0,5,4,2,1,2
+2502700377900765,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.03,2,0,4,5,0,0,1,2
+2703100947704599,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,up to class 5,neither encourage nor distract,good,68.42,1,1,2,4,4,5,3,2
+2703100947905611,no,0.75,8.0,3.0,very highly motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,98.5,3,0,5,4,4,2,3,2
+2703100948006828,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.16,1,0,2,4,4,4,3,2
+2703100948007001,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,64.59,1,0,2,0,0,5,0,1
+2703102557800703,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,68.9,1,0,4,4,0,0,1,2
+2703107017600262,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,55.02,0,0,2,0,0,5,0,1
+2703100948100178,yes,0.75,8.0,3.0,somewhat motivated,sometimes,study on bed or floor,no formal education,"no, they distract me a lot",very poor,57.42,0,1,4,5,3,4,4,5
+2703100948200253,yes,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,79.43,2,1,4,5,0,2,1,2
+2703100947805530,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,70.81,1,0,2,5,0,0,1,2
+2703100948100399,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,poor,25.36,0,0,2,0,3,5,3,4
+2703102027902244,yes,0.75,8.0,3.0,very highly motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,44.5,0,1,5,4,4,2,1,2
+7101000727400605,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,53.59,0,0,2,0,0,5,0,1
+2703100127801178,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,68.42,1,0,2,0,0,5,0,1
+2703100947905836,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,72.73,1,0,0,4,0,0,1,2
+2703100947603697,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.08,2,0,2,4,4,4,3,2
+2703106797700533,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,70.81,1,0,4,5,0,0,1,2
+2703100947906654,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,64.11,1,0,2,0,0,5,0,1
+2703100947906639,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,80.38,2,0,0,4,3,4,4,5
+2703100948200414,no,0.75,8.0,3.0,motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,77.99,2,0,0,4,4,1,1,2
+2703100948100129,yes,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,71.77,1,1,4,4,0,1,1,2
+2703100948200401,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.46,1,0,2,0,0,5,0,1
+2703100948200220,yes,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,69.38,1,1,2,0,3,5,3,2
+1906400427902576,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,71.29,1,0,0,4,4,2,3,2
+2703100947905786,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,52.63,0,0,2,5,0,4,3,2
+2703100947905593,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,71.77,1,0,2,4,4,4,3,2
+2703106447901274,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,70.81,1,0,4,4,0,1,1,2
+2703100948006915,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,73.21,1,0,2,0,0,4,3,2
+2703100948006933,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,74.64,1,0,2,4,0,2,3,2
+2703100948007010,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.56,2,0,4,5,0,0,1,2
+2703100948006862,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,72.25,1,0,2,4,4,4,3,2
+2703106017500409,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,81.82,2,0,2,4,4,4,3,2
+2703100947805528,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,fair,80.38,2,0,0,4,4,2,1,1
+2703000327600435,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,78.47,2,0,0,5,0,2,1,2
+2703100948006968,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,49.76,0,0,2,0,0,5,0,1
+2703100947905799,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,4,4,3,2
+2703100948200392,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,0,4,3,2
+2703106017600492,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,73.68,1,0,4,5,0,0,1,2
+2703100948200360,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,73.68,1,0,4,4,0,0,1,2
+2703100947805514,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,2,5,0,0,1,2
+2703100947805090,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,5,0,0,1,2
+3700700087601129,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,78.47,2,0,2,4,0,4,3,2
+2703100947402069,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,60.77,1,0,2,0,0,4,3,2
+7101001307200227,yes,0.75,8.0,3.0,very highly motivated,sometimes,own quiet room or dedicated study space,higher secondary / plus two or above,mostly encourage me,good,74.16,1,1,5,5,2,2,1,2
+2703100948006815,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,68.9,1,0,2,4,0,4,3,2
+2703100948200314,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,79.9,2,0,0,4,4,2,1,2
+2703100948200355,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.21,1,0,2,4,4,4,3,2
+2703100948100139,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,0,0,4,3,2
+3203200137901109,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,76.08,2,0,2,5,0,4,1,2
+2703101727400405,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703100947905646,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,72.73,1,0,3,4,4,1,1,2
+2700700027900444,no,0.75,8.0,3.0,not motivated at all,almost always,with siblings,up to class 5,mostly distract me,fair,52.15,0,0,2,0,4,5,0,1
+2703100947704630,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,72.73,1,0,2,4,0,4,3,2
+5904800228100797,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703106457901739,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,66.03,1,0,0,4,3,4,4,5
+3201900197700092,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,47.37,0,0,3,2,2,2,5,2
+1609000267602439,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,,,0,1,1,1,3,2,3
+2703100947905807,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,75.12,2,0,2,4,4,4,3,2
+2703101597902116,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.03,2,0,2,4,4,4,3,2
+2703107017600269,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,65.55,1,0,4,4,0,0,1,2
+2204400058000643,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,57.42,0,0,2,0,0,5,0,1
+2703106748000478,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,no formal education,"no, they distract me a lot",fair,2.39,0,0,2,0,3,4,4,1
+2703100947905838,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,76.56,2,0,4,4,0,1,1,2
+2703104007900901,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,64.11,1,0,0,5,0,4,3,2
+2703100747900271,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,class 6 to 8,neither encourage nor distract,good,55.98,0,0,2,4,0,0,3,2
+6501800058000380,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,70.33,1,1,2,5,0,4,3,2
+2703100948100145,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,67.94,1,0,4,5,0,4,3,2
+2703100948200209,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,71.29,1,0,0,4,3,4,4,5
+2703100747700234,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,69.38,1,0,2,0,3,5,3,1
+2703100948200409,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,69.86,1,0,2,0,0,5,0,1
+5800700097601213,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,78.47,2,0,2,0,0,5,0,1
+2703100947805056,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,66.51,1,0,2,4,4,4,3,2
+2703100948006902,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,41.15,0,1,2,0,0,5,3,2
+2703100948200285,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,62.68,1,0,2,5,0,4,3,2
+2703106617600401,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,67.94,1,0,2,4,0,5,3,2
+2703100948200389,no,0.75,8.0,3.0,motivated,never,with siblings,higher secondary / plus two or above,mostly encourage me,good,80.38,2,0,0,2,4,2,1,2
+2703100947805061,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,25.36,0,0,2,0,3,5,3,1
+2703100948200215,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,4,4,3,2
+1702100017400651,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,58.37,0,0,2,4,4,4,3,2
+2703100948006860,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,poor,53.11,0,0,2,0,3,5,3,4
+2703100948200272,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,30.14,0,0,2,0,3,5,3,1
+2703107017600248,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,63.16,1,0,2,4,0,4,3,2
+2703100948006857,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,18.66,0,0,2,0,3,5,3,2
+2703100948006967,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.99,1,0,2,0,0,5,0,1
+1606300107703488,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,31.58,0,0,2,0,3,5,3,2
+2703100948006964,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,54.55,0,0,2,4,4,4,3,2
+2703100948006987,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,46.41,0,0,2,0,0,4,3,2
+4703600067400610,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,7.66,0,0,2,0,3,5,3,2
+7002100027901859,yes,0.75,8.0,3.0,very highly motivated,sometimes,own quiet room or dedicated study space,higher secondary / plus two or above,mostly encourage me,good,72.25,1,1,5,5,2,2,1,2
+7200700167500546,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,69.86,1,1,2,5,0,0,1,2
+2703100948006974,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,58.37,0,0,2,5,0,0,1,2
+2703100948200284,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,70.33,1,0,2,0,0,5,0,1
+1701700077500251,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,57.89,0,0,2,4,0,4,3,2
+2703109767901162,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,71.29,1,0,2,4,4,4,3,2
+2703100947805502,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,65.07,1,0,2,5,0,0,1,2
+2703100948100153,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,74.64,1,0,2,0,3,5,3,2
+2503700128002080,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,60.29,1,0,2,0,0,5,0,1
+2703100947906030,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,71.29,1,0,2,0,0,5,0,1
+2703105437902558,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,74.64,1,0,0,4,0,5,3,2
+2703100948006896,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,64.59,1,0,2,5,0,4,1,2
+2703100947906004,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,68.42,1,0,2,0,0,4,3,2
+2502700377800655,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,70.33,1,1,2,0,0,4,3,2
+2703100948200428,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,26.32,0,0,2,0,3,5,3,2
+1704800298000406,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.68,1,0,4,4,0,1,1,2
+2703100947704617,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,69.38,1,0,0,4,0,4,3,2
+2703100948200252,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,34.93,0,0,2,0,3,5,3,2
+2703100947906016,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,76.56,2,0,4,5,0,4,3,2
+7100900137400452,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,77.51,2,0,2,5,0,4,3,2
+2703100948200291,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,72.73,1,0,2,4,4,4,3,2
+2703107348005944,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,77.03,2,0,0,4,0,5,3,2
+2703100947603796,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,69.38,1,0,2,4,4,4,3,2
+2703100948200218,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",excellent,56.46,0,0,3,2,2,2,5,0
+2703100947603781,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,81.34,2,0,2,4,0,4,3,2
+2703100948006966,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,47.85,0,0,2,0,0,5,0,1
+7302100138000863,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,4,4,3,2
+2703100948006892,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,76.08,2,0,2,0,0,5,0,1
+2703100948200254,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,33.49,0,0,2,0,3,5,3,2
+2703100948200197,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,59.81,0,0,2,0,0,5,0,1
+2703100948200366,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,65.55,1,0,2,4,0,2,3,2
+1609700527601730,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,66.51,1,0,2,5,0,0,1,2
+2703100948200378,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,62.2,1,0,2,0,0,5,0,1
+7101000287901366,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,4,4,3,2
+2703100947906111,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,70.33,1,1,2,0,0,4,3,2
+2703100948007314,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,72.73,1,0,2,0,0,5,0,1
+2703100948100125,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,65.07,1,0,2,0,0,4,3,2
+1901700017903744,no,0.75,8.0,3.0,very highly motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,77.51,2,0,5,4,4,2,1,2
+1602400197300065,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,79.43,2,0,2,4,4,4,3,2
+2703100948100146,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,72.73,1,0,3,2,2,2,5,2
+2703100947905615,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,80.38,2,0,2,0,0,5,3,2
+2703100948006888,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,0,4,5,0,0,1,2
+2703103378001917,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,26.79,0,0,4,5,0,0,1,2
+2703100948200292,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,16.27,0,0,2,0,3,5,3,2
+2703108807900611,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,up to class 5,mostly distract me,excellent,34.93,0,0,2,5,0,5,0,0
+2703100948100167,yes,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,70.81,1,1,3,2,2,2,5,2
+2703100948200381,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,poor,22.97,0,0,2,0,3,5,3,4
+2703106017900743,yes,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.95,2,1,0,4,4,2,1,2
+6903000048003421,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,4,4,3,2
+2703100948200384,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,25.36,0,0,2,0,3,5,3,1
+2703100948200295,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,72.25,1,0,2,5,0,4,3,2
+3402000307301253,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,,,0,2,4,0,4,3,2
+2703100948006847,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,73.21,1,0,2,4,0,4,3,2
+3305200097401166,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,73.21,1,0,4,5,0,0,1,2
+2703100948006918,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.46,1,0,2,0,0,5,0,1
+2703100948200375,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,64.11,1,0,2,0,0,5,0,1
+2703100947402025,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,71.29,1,1,2,0,0,4,3,2
+2703100948200259,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,28.23,0,0,2,0,3,5,3,2
+2703100948100155,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,65.55,1,0,2,4,4,4,3,2
+2703100947805044,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,77.03,2,0,3,4,4,1,1,2
+2703100948006977,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,50.24,0,0,2,0,0,5,0,1
+2703102437300647,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,75.6,2,0,4,4,0,1,1,2
+2703100948200268,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,54.07,0,0,2,5,0,0,1,2
+2703106458001935,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,70.81,1,0,3,2,2,2,5,2
+2703102028002662,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,78.95,2,0,0,4,0,2,1,2
+2301000087700130,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,4,4,0,0,1,2
+6401400158000699,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,75.6,2,0,3,2,2,2,5,2
+2703100948100137,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,4,0,0,1,2
+2703100947906647,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.03,1,0,2,0,0,5,0,1
+2703100947905630,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,64.11,1,0,0,4,3,4,4,5
+2703100948006877,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,76.08,2,0,2,4,0,2,3,2
+7100900137400543,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,66.51,1,0,2,5,0,0,1,2
+2703100947805079,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,62.68,1,0,2,0,0,5,0,1
+2703100947906041,no,0.75,8.0,3.0,motivated,rarely,with siblings,no formal education,neither encourage nor distract,good,74.16,1,0,0,4,4,4,3,2
+2703100947805021,no,0.75,8.0,3.0,very highly motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,80.86,2,0,5,5,4,2,1,2
+2703100948200430,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,71.77,1,0,2,5,0,0,1,2
+2703100948006913,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,0,4,3,2
+2703100948006814,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.56,2,0,2,4,4,4,3,2
+2703100948100122,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,55.02,0,0,2,0,3,5,3,2
+2703100947905675,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,58.85,0,0,2,0,0,5,0,1
+2703100948200323,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,mostly distract me,good,27.27,0,0,2,0,3,5,0,2
+2703100947502936,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,69.38,1,0,2,0,0,4,3,2
+2703100948006944,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,2,5,0,0,1,2
+2703100947905999,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,54.55,0,0,2,0,0,4,3,2
+2703100947402027,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.64,1,0,0,4,0,4,3,2
+2703100947905797,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,63.16,1,0,2,5,0,4,3,2
+2703100948200352,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,72.73,1,0,2,0,0,5,0,1
+2703100948200286,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,71.77,1,0,2,5,0,4,3,2
+2601200328000951,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,67.46,1,0,4,4,0,1,1,2
+2703100948200354,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,excellent,34.45,0,0,2,0,0,5,0,0
+2703100947805540,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,78.95,2,0,2,0,0,4,3,2
+2703100947805016,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,55.5,0,0,2,0,0,5,3,2
+2703100948200333,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,73.68,1,0,2,5,0,4,3,2
+2703100947905665,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.56,2,0,2,5,0,0,1,2
+1904000068005445,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,77.51,2,0,0,4,4,2,1,2
+2703100947905648,no,0.75,8.0,3.0,motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,74.16,1,0,0,4,4,1,1,2
+1506900087900394,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,46.89,0,0,2,0,0,5,0,1
+2703100948200287,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,72.25,1,0,4,4,0,1,1,2
+2703104938000649,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.03,1,0,2,0,0,5,0,1
+2703104938000642,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,21.53,0,0,2,0,3,5,3,2
+2703100948006985,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,71.77,1,0,2,4,4,4,3,2
+6800600208000087,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,72.73,1,0,0,4,3,4,4,5
+1602400197901086,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.12,2,0,2,5,0,0,1,2
+2703100948200421,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,72.73,1,0,3,4,4,1,1,2
+2703100948006922,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,2,5,0,0,1,2
+2703100948200181,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,class 6 to 8,neither encourage nor distract,good,72.73,1,0,2,4,0,0,3,2
+2703100948100398,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,6.7,0,0,2,0,3,5,3,1
+2703100948200228,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,78.95,2,0,2,0,0,5,3,2
+2703100947704595,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,"no, they distract me a lot",very poor,34.45,0,0,2,0,0,5,4,5
+2703100947906020,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,4,4,3,2
+2703100948100158,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,61.24,1,1,2,0,0,5,3,2
+1704801137901609,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,4,4,3,2
+4900300067901324,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,66.03,1,0,2,5,0,0,1,2
+2703100948200281,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,24.88,0,0,2,0,3,5,3,2
+2703100948200304,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,67.46,1,0,4,5,0,0,1,2
+2703100628000941,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,80.86,2,0,0,4,4,2,1,2
+2703100947906011,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,60.29,1,0,0,5,0,0,1,2
+2703107828000268,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,5,0,0,1,2
+2703100947906653,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,75.6,2,0,2,0,0,4,3,2
+2703100947704278,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,63.16,1,0,2,0,0,5,0,1
+5004000517800277,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,76.56,2,0,3,4,4,1,1,2
+2703100948200243,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,70.33,1,0,2,4,4,4,3,2
+2703100947906019,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,66.99,1,0,2,0,0,4,3,2
+2703102327400326,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,,,0,2,4,0,4,3,2
+2703100947603806,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,class 6 to 8,neither encourage nor distract,good,77.99,2,0,0,4,0,0,3,2
+2703100948007014,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,64.11,1,0,2,0,0,5,0,1
+2703100947905614,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,73.21,1,1,3,4,4,1,1,2
+2703104838100063,no,0.75,8.0,3.0,nan,nan,nan,nan,nan,nan,0.0,0,0,1,1,1,3,2,3
+2703100948200247,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,26.32,0,0,2,0,3,5,3,1
+2703104757900929,yes,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,higher secondary / plus two or above,mostly encourage me,fair,80.38,2,1,0,5,0,2,1,1
+2703100947805232,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.56,2,0,2,5,0,0,1,2
+2703100948200426,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,14.35,0,0,2,0,3,5,3,2
+2703100947704588,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.24,1,0,2,0,0,5,0,1
+2703100948200240,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,66.99,1,0,2,5,0,4,1,2
+2703100948200223,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,70.33,1,0,2,0,0,5,3,2
+2703100947805183,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,4,4,3,2
+2703100947906033,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,68.42,1,0,2,4,4,4,3,2
+2703100948200402,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,mostly distract me,fair,36.36,0,0,2,0,3,5,0,1
+2703100947805083,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,76.56,2,0,2,4,0,5,3,2
+2703100948007044,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,54.55,0,0,2,0,0,4,3,2
+2703105558100116,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,69.86,1,0,2,0,0,5,0,1
+2703100948100159,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,36.84,0,0,2,0,0,5,3,2
+2703102438001100,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,75.6,2,0,3,4,4,1,1,2
+2703100947502940,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,73.21,1,0,2,2,3,4,4,5
+2703100948200429,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,66.99,1,0,2,4,0,4,3,2
+2703100948006948,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,71.77,1,0,2,4,4,4,3,2
+2703100948100138,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,0,4,3,2
+7101000967500703,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,68.9,1,0,2,4,4,4,3,2
+2703100948200251,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,62.68,1,0,2,4,4,4,3,2
+2703100947704619,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,76.08,2,0,2,5,0,4,1,2
+2503700128002093,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,73.21,1,0,4,4,0,0,1,2
+2703100948006827,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,61.24,1,0,2,4,0,2,3,2
+5903300197600028,yes,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,76.08,2,1,3,2,2,2,5,2
+2703100947905640,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.99,2,0,2,0,0,5,0,1
+1909300017600730,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,76.08,2,0,2,4,0,4,3,2
+500200017400433,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,74.64,1,0,3,2,2,2,5,2
+1706200078000012,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,76.56,2,0,4,4,0,0,1,2
+7100700147400396,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,59.81,0,0,2,0,0,5,0,1
+2703100948006984,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,61.24,1,0,2,4,0,2,3,2
+2703100948200321,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,65.07,1,0,2,0,0,5,0,1
+2703100947905810,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,68.42,1,0,3,2,2,2,5,2
+1100700057500563,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.68,1,0,4,4,0,1,1,2
+2703100948006963,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.16,1,0,2,4,4,4,3,2
+2703100947905817,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,44.02,0,0,2,4,0,4,3,2
+2703108688000049,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,71.29,1,0,2,5,0,0,1,2
+2703100948200165,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,7.18,0,0,2,0,3,5,3,2
+1904700018000905,no,0.75,8.0,3.0,very highly motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,74.64,1,0,5,5,4,2,1,2
+2703100948200306,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,67.46,1,0,4,5,0,0,1,2
+3205500037601600,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,64.59,1,0,4,4,0,0,1,2
+1606300418002772,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,67.46,1,0,2,5,0,0,1,2
+2703106017600493,no,0.75,8.0,3.0,motivated,rarely,with siblings,no formal education,mostly encourage me,good,78.95,2,0,0,4,4,4,1,2
+2703100948100124,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,79.43,2,0,2,0,0,4,3,2
+2703100948006954,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,mostly distract me,fair,68.42,1,0,2,0,0,4,0,1
+2703100947402054,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,67.94,1,0,2,0,0,5,0,1
+2703100948200317,yes,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.16,1,1,0,5,0,0,1,2
+2703100947905664,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.51,1,0,2,0,0,5,0,1
+2703100948200367,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,66.99,1,0,2,0,0,5,0,1
+2600300438001402,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,2,5,0,0,1,2
+2703100947906669,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,34.93,0,0,0,4,0,1,1,2
+2703107828000326,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,56.94,0,0,3,2,2,2,5,2
+2703100947905814,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.64,1,0,2,0,0,5,0,1
+2703100948200318,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,71.29,1,0,3,4,4,1,1,2
+2703100948100395,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,55.02,0,0,2,0,0,5,0,1
+2703107767902574,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,56.94,0,0,3,4,4,1,1,2
+7201300147801853,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,72.25,1,0,0,4,0,5,3,2
+2703100948006976,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,80.38,2,0,2,4,0,4,3,2
+2703100947906645,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,60.29,1,0,2,0,0,5,0,1
+2703100948100135,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.03,2,0,2,4,0,4,3,2
+2703104757200009,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.56,2,1,2,5,0,0,1,2
+1708100128000240,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,56.46,0,0,2,5,0,0,1,2
+2703100127801088,no,0.75,8.0,3.0,motivated,never,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,78.47,2,0,0,2,0,2,1,2
+2703100947805075,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,70.33,1,0,2,4,4,4,3,2
+3602300077900913,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,66.03,1,0,2,4,4,4,3,2
+2703100947906036,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.68,1,0,4,4,0,1,1,2
+2703100948200156,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,mostly distract me,good,41.15,0,0,2,0,3,5,0,2
+2703100948200237,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,37.32,0,0,2,4,4,4,3,2
+2703100948200387,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,61.24,1,0,2,4,0,4,3,2
+2703100947603745,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,38.76,0,0,2,0,0,5,0,1
+2703100948007023,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.03,2,0,2,0,0,5,0,1
+2703100948007033,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,49.76,0,0,2,4,0,4,3,2
+6905000037800966,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,73.21,1,0,2,4,0,2,3,2
+2703100948006911,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,71.29,1,0,2,0,0,5,0,1
+2703100948200256,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,71.29,1,0,2,4,0,5,3,2
+1704801508000065,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,45.45,0,0,0,4,0,4,3,2
+2703100948100119,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,79.43,2,0,2,0,0,4,3,2
+2703100948200341,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,70.81,1,0,2,4,0,4,3,2
+2703100947805534,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,71.29,1,0,2,4,4,4,3,2
+2703100947906641,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,class 6 to 8,neither encourage nor distract,good,54.07,0,0,2,4,0,0,3,2
+2703105558100130,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,79.9,2,0,2,4,0,5,3,2
+2703100947502944,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,75.6,2,0,2,0,0,5,0,1
+2703101338001878,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,4,4,3,2
+2703102438001079,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,75.6,2,0,4,4,0,1,1,2
+2703100948200547,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,,,0,2,4,0,4,3,2
+2703100948100142,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,66.51,1,0,2,0,0,4,3,2
+2703100947603786,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,no formal education,mostly encourage me,good,72.25,1,0,4,5,0,4,1,2
+2703100948200420,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,76.08,2,0,3,4,4,1,1,2
+2703100947704592,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,62.68,1,0,2,2,3,4,4,5
+2703100947906296,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,63.64,1,0,2,4,4,4,3,2
+1903400128000046,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,57.42,0,0,0,5,0,0,1,2
+2703100948200328,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,72.73,1,0,2,0,0,5,0,1
+2703100947905835,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,69.38,1,0,2,0,0,5,0,1
+6701900128000448,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,65.55,1,0,2,4,4,4,3,2
+1601300028001497,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,61.24,1,0,2,4,4,4,3,2
+2703100948100185,no,0.75,8.0,3.0,slightly motivated,almost always,living room or kitchen,up to class 5,mostly distract me,fair,68.9,1,0,3,0,0,5,0,1
+5703200277901806,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,57.89,0,0,0,4,3,4,4,5
+1606300307500540,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,26.79,0,0,2,0,3,5,3,2
+3201100018003492,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,77.51,2,0,2,5,0,4,1,2
+2703100947905809,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,78.95,2,0,2,4,0,4,3,2
+2703100948006998,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,55.98,0,0,0,5,0,4,3,2
+7100900137901381,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,75.12,2,0,2,0,0,5,0,1
+2703100947704602,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,69.86,1,0,2,4,4,4,3,2
+2703100948200230,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,74.16,1,0,2,4,0,5,3,2
+2703100948200275,no,0.75,8.0,3.0,nan,nan,nan,nan,neither encourage nor distract,nan,0.0,0,0,1,1,1,3,3,3
+2703100948100143,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,75.12,2,0,3,4,4,1,1,2
+2703100948006975,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,69.86,1,0,2,0,0,5,0,1
+2703104737801564,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,72.73,1,0,2,4,0,4,3,2
+2703100948100156,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.21,1,0,4,4,0,1,1,2
+6904700047800834,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,59.33,0,0,2,4,4,4,3,2
+2703100948006928,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,71.77,1,0,3,4,4,1,1,2
+2703100948200279,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,10.53,0,0,2,0,3,5,3,2
+5902900218003473,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,79.43,2,0,0,4,4,2,1,2
+2703100948100169,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,72.73,1,0,2,4,0,4,3,2
+2703100948200171,yes,0.75,8.0,3.0,somewhat motivated,sometimes,with siblings,no formal education,mostly encourage me,good,26.79,0,1,4,5,4,4,1,2
+2703103617900549,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,78.95,2,0,2,4,4,4,3,2
+2703102597500336,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.16,1,0,2,0,0,5,0,1
+2703100948100164,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,0,4,0,0,1,2
+1903400128000298,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,73.21,1,0,2,5,0,0,1,2
+1906400468002331,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,70.81,1,0,2,5,0,0,1,2
+2703100947906660,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,47.85,0,0,2,0,0,5,0,1
+2703100948200331,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,51.2,0,0,0,5,0,0,1,2
+2105400017500914,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,0,5,0,0,1,2
+7200700168100201,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,77.51,2,0,0,4,3,4,4,5
+2703100947704273,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,21.05,0,0,2,0,3,5,3,2
+3301500048000216,yes,0.75,8.0,3.0,motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,72.25,1,1,0,4,0,1,1,2
+2703100948006950,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,72.25,1,0,4,5,0,0,1,2
+2703100948200265,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.03,2,0,2,4,0,4,3,2
+7100100397500869,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,78.95,2,0,0,5,0,2,1,2
+2703100947704586,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,60.77,1,0,2,0,0,5,0,1
+2703100947704590,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,76.56,2,1,2,4,0,4,3,2
+2703100948007002,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,76.08,2,0,2,4,0,4,3,2
+2703100947905628,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,73.21,1,0,0,4,0,4,3,2
+2703109187900427,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,77.51,2,0,4,4,0,0,1,2
+2703100947402026,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,69.86,1,0,2,4,0,4,3,2
+3102000297804361,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,62.68,1,0,0,4,4,2,1,2
+2703100948200262,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,68.42,1,0,2,4,4,4,3,2
+2703100948007007,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,59.33,0,0,2,0,0,5,0,1
+2703108618000457,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,74.16,1,0,0,4,4,2,1,2
+2703100948007318,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,74.64,1,0,2,4,0,4,3,2
+2703100948200342,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,76.08,2,0,4,4,0,0,1,2
+2703100947905772,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,4,4,3,2
+2703100747900276,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,40.19,0,1,2,0,0,5,3,2
+2703100947704632,yes,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.64,1,1,2,4,4,4,3,2
+2703100948200200,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,74.64,1,0,2,5,0,0,1,2
+2703100948200403,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,74.64,1,0,3,4,4,1,1,2
+2703109767901178,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,72.73,1,0,2,0,0,5,0,1
+2703100947905626,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,76.56,2,0,2,0,0,5,0,1
+2703100948200241,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,35.41,0,0,2,0,3,5,3,2
+2703100947905672,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,40.67,0,0,2,0,0,5,0,1
+2703100948006886,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,70.81,1,0,2,4,0,4,3,2
+2703100948200267,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,70.81,1,0,2,0,0,4,3,2
+2703106017900736,no,0.75,8.0,3.0,slightly motivated,almost always,living room or kitchen,up to class 5,mostly distract me,fair,79.43,2,0,3,0,0,5,0,1
+1803600087300261,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.21,1,0,4,4,0,1,1,2
+2703100947805078,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,72.25,1,0,2,4,4,4,3,2
+1907300107700901,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,71.29,1,0,2,5,0,4,1,2
+2703100948006883,no,0.75,8.0,3.0,motivated,rarely,with siblings,no formal education,neither encourage nor distract,good,72.73,1,0,0,4,4,4,3,2
+3605000287201495,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,72.73,1,0,2,0,0,5,0,1
+2703100948200204,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.08,2,0,2,4,4,4,3,2
+2703100948007000,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,71.77,1,0,2,0,0,5,0,1
+2703100947805525,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,80.86,2,0,2,4,4,4,3,2
+7101400157601659,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,57.89,0,0,0,5,0,0,1,2
+3102000837600972,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,66.51,1,0,0,4,3,4,4,5
+2601100068001185,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,69.86,1,0,2,0,3,5,3,2
+2703100948006826,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,79.43,2,0,2,0,0,4,3,2
+2703100948100141,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,73.68,1,0,3,2,2,2,5,2
+2703100948006851,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,67.94,1,0,2,0,0,4,3,2
+2703104737801606,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,77.99,2,0,2,0,0,5,0,1
+2703100947905787,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.95,2,0,0,4,4,2,1,2
+2703100948200340,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.21,1,0,4,4,0,1,1,2
+2703100947905632,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,mostly distract me,fair,76.56,2,0,2,0,0,4,0,1
+2703100948200192,no,0.75,8.0,3.0,nan,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,24.88,0,0,1,0,3,5,3,2
+2703108637700500,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,79.9,2,0,2,4,4,4,3,2
+2703100948200349,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,70.33,1,0,2,4,0,2,3,2
+2703100948200277,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,70.81,1,1,2,4,0,4,3,2
+2703100948007316,no,0.75,8.0,3.0,motivated,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,66.51,1,0,0,4,0,4,3,2
+2703100948200417,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,72.25,1,0,2,4,0,2,3,2
+1904800097800056,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,neither encourage nor distract,good,40.67,0,0,2,5,0,4,3,2
+2703100948200329,no,0.75,8.0,3.0,motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,68.42,1,0,0,5,0,0,1,2
+2703100947905824,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,71.77,1,0,2,0,0,5,0,1
+2703105538100056,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,75.6,2,0,4,5,0,0,1,2
+2703100948200206,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,73.21,1,0,4,4,0,1,1,2
+2703100948006946,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,71.77,1,0,2,5,0,0,1,2
+2703100948200280,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,78.95,2,0,2,4,4,4,3,2
+1905500148001540,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,58.85,0,0,2,5,0,0,1,2
+1500500077901150,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,75.6,2,0,3,4,4,1,1,2
+2703100948007019,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,57.42,0,0,2,4,4,4,3,2
+2703100948100171,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 6 to 8,mostly encourage me,good,64.11,1,0,4,4,0,0,1,2
+6904700047400452,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,55.98,0,0,2,0,0,4,3,2
+2703100947906662,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,48.33,0,0,2,0,0,4,3,2
+2703100947805052,no,0.75,8.0,3.0,motivated,rarely,study on bed or floor,no formal education,"no, they distract me a lot",very poor,75.6,2,0,0,4,3,4,4,5
+2703100948006871,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,71.29,1,0,4,5,0,0,1,2
+6905000037800965,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,73.68,1,0,2,0,0,5,0,1
+2703100947805046,no,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,73.21,1,0,3,4,4,1,1,2
+2703100947502826,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,poor,57.89,0,0,2,0,3,5,3,4
+3201900197700190,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,71.77,1,0,2,4,0,4,3,2
+2703107017400158,yes,0.75,8.0,3.0,motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.95,2,1,0,5,4,2,1,2
+2408700038100008,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,46.89,0,0,4,4,0,1,1,2
+2703106408000592,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,68.42,1,0,2,0,0,5,0,1
+1609000267401561,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,,,0,2,0,0,5,0,1
+2703100948006818,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,63.16,1,0,2,5,0,0,1,2
+2703100947905659,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly distract me,good,31.1,0,0,2,5,0,4,0,2
+2703100947805499,no,0.75,8.0,3.0,motivated,rarely,with siblings,no formal education,neither encourage nor distract,good,80.38,2,0,0,4,4,4,3,2
+7100500157500535,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,74.16,1,0,4,4,0,1,1,2
+2703100948100157,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,73.68,1,0,2,4,0,4,3,2
+2703100948200269,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,up to class 5,neither encourage nor distract,good,66.99,1,0,2,4,0,5,3,2
+2703100948200188,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,mostly distract me,good,29.19,0,0,2,0,3,5,0,2
+1506700098001481,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,58.85,0,0,2,4,4,4,3,2
+2703100948200320,no,0.75,8.0,3.0,slightly motivated,never,own quiet room or dedicated study space,higher secondary / plus two or above,"yes, always encourage me",good,15.79,0,0,3,2,2,2,5,2
+2703106018000997,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,no formal education,mostly encourage me,good,69.86,1,0,2,5,0,4,1,2
+2703100948200264,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,69.86,1,0,2,4,0,4,3,2
+2703100948200423,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,4,4,3,2
+1302400137300313,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,70.81,1,0,2,4,0,2,3,2
+3205200078001255,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,76.56,2,0,2,5,0,0,1,2
+2703100947905818,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,76.08,2,0,2,0,0,5,0,1
+1906900128002091,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,77.03,2,0,2,0,0,4,3,2
+2703100948200397,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,74.16,1,0,2,4,4,4,3,2
+3102000447902772,yes,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,32.54,0,1,2,4,0,4,3,2
+2703100747800254,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.56,2,0,2,4,4,4,3,2
+5802000127704332,no,0.75,8.0,3.0,motivated,never,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,80.38,2,0,0,2,0,2,1,2
+2703100948200246,no,0.75,8.0,3.0,motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.47,2,0,0,4,4,2,1,2
+2703100948006988,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,69.38,1,0,2,5,0,0,1,2
+1606300307500396,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,higher secondary / plus two or above,neither encourage nor distract,good,65.55,1,0,2,4,0,2,3,2
+2703100948100118,yes,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,65.55,1,1,4,4,0,1,1,2
+2703105558100137,no,0.75,8.0,3.0,somewhat motivated,rarely,with siblings,higher secondary / plus two or above,mostly encourage me,fair,80.38,2,0,4,4,4,2,1,1
+2703100948100123,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,59.33,0,0,2,0,0,4,3,2
+1904000277500471,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,74.16,1,0,2,0,0,5,0,1
+7003900107900286,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,71.77,1,0,2,0,0,4,3,2
+2703100948006813,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,64.59,1,0,2,4,4,4,3,2
+2703100948007005,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,60.77,1,0,2,0,0,5,0,1
+2703100947905639,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,71.77,1,0,2,0,0,5,0,1
+2703105348000613,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,27.27,0,0,2,0,3,5,3,2
+2703100948200298,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,0,0,4,3,2
+2703100947603692,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.72,1,0,2,0,0,5,0,1
+2703100948006940,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,65.07,1,0,4,4,0,1,1,2
+2703100948200302,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,52.15,0,0,2,4,0,4,3,2
+2703100947805159,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,76.08,2,0,2,4,4,4,3,2
+2703100947906007,no,0.75,8.0,3.0,motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,78.47,2,0,0,5,4,2,1,2
+5900700338001045,no,0.75,8.0,3.0,somewhat motivated,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,68.42,1,0,4,5,0,0,1,2
+2703106457601411,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,57.89,0,0,4,4,0,1,1,2
+2703100948200250,no,0.75,8.0,3.0,not motivated at all,rarely,with siblings,no formal education,neither encourage nor distract,good,75.6,2,0,2,4,4,4,3,2
+6905000037200343,no,0.75,8.0,3.0,motivated,rarely,with siblings,no formal education,mostly encourage me,good,79.43,2,0,0,4,4,4,1,2
+2703100948200299,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,54.55,0,0,2,0,0,5,0,1
+2703105558100118,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,75.12,2,0,2,4,0,4,3,2
+2703100947502830,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,59.81,0,0,2,0,0,4,3,2
+2703100947805031,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,neither encourage nor distract,good,76.56,2,0,2,0,0,5,3,2
+2703100947906037,no,0.75,8.0,3.0,somewhat motivated,rarely,living room or kitchen,class 9 to 10,mostly encourage me,good,65.07,1,0,4,4,0,1,1,2
+1509700457400113,no,0.75,8.0,3.0,not motivated at all,never,study on bed or floor,no formal education,"no, they distract me a lot",very poor,60.77,1,0,2,2,3,4,4,5
+2703100948200191,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,24.88,0,0,2,0,3,5,3,1
+2703105437702300,no,0.75,8.0,3.0,motivated,sometimes,with siblings,higher secondary / plus two or above,mostly encourage me,good,81.34,2,0,0,5,4,2,1,2
+2703100948200199,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,25.36,0,0,2,0,3,5,3,2
+2703100948100163,no,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,71.29,1,0,2,5,0,0,1,2
+2703100947905779,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,77.99,2,0,2,4,0,4,3,2
+1608900038000705,yes,0.75,8.0,3.0,very highly motivated,sometimes,own quiet room or dedicated study space,higher secondary / plus two or above,mostly encourage me,good,97.9,3,1,5,5,2,2,1,2
+2703100948006909,yes,0.75,8.0,3.0,slightly motivated,rarely,with siblings,class 9 to 10,mostly encourage me,good,75.12,2,1,3,4,4,1,1,2
+2703105437802433,no,0.75,8.0,3.0,very highly motivated,rarely,with siblings,higher secondary / plus two or above,neither encourage nor distract,good,77.99,2,0,5,4,4,2,3,2
+1806000038001683,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,up to class 5,mostly distract me,fair,61.72,1,0,2,0,0,5,0,1
+2703102327200008,yes,0.75,8.0,3.0,not motivated at all,sometimes,living room or kitchen,class 6 to 8,mostly encourage me,good,72.73,1,1,2,5,0,0,1,2
+2703100948200224,no,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,70.33,1,0,2,0,0,4,3,2
+2703100948200186,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,fair,33.49,0,0,2,0,3,5,3,1
+6701900017400413,yes,0.75,8.0,3.0,not motivated at all,almost always,living room or kitchen,no formal education,neither encourage nor distract,good,72.25,1,1,2,0,0,4,3,2
+2703100948200149,no,0.75,8.0,3.0,not motivated at all,almost always,study on bed or floor,up to class 5,neither encourage nor distract,good,27.75,0,0,2,0,3,5,3,2
+2703108977800578,no,0.75,8.0,3.0,motivated,never,living room or kitchen,higher secondary / plus two or above,mostly encourage me,good,78.95,2,0,0,2,0,2,1,2
+2703100948006953,no,0.75,8.0,3.0,not motivated at all,rarely,living room or kitchen,no formal education,neither encourage nor distract,good,67.94,1,0,2,4,0,4,3,2
